@@ -2,5 +2,6 @@ lab50:
   files:
     - !exclude "*"
   window:
+    - editor
     - readme
     - terminal
